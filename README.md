@@ -1,10 +1,10 @@
 # AI_ML_Internship
-1. Problem Statement:
+step 1. Problem Statement:
 Task: Separate the center area from images using perspective transformation.
 Input: An image containing a rotated square or similar object.
 Output: A cropped image with the center area isolated.
 
-2. Step-by-Step Approach:
+step 2. Step-by-Step Approach:
    
     Step 1: Load and Display the Image
       Use OpenCV (cv2) to load the image (image.png in your case).
