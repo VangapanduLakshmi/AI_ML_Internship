@@ -5,6 +5,7 @@ Input: An image containing a rotated square or similar object.
 Output: A cropped image with the center area isolated.
 
 2. Step-by-Step Approach:
+   
     Step 1: Load and Display the Image
       Use OpenCV (cv2) to load the image (image.png in your case).
       Display the original image to visualize the starting point.
